@@ -1,0 +1,71 @@
+﻿  stdafx.cpp
+  gameNode.cpp
+  image.cpp
+  imageManager.cpp
+  keyManager.cpp
+  mainGame.cpp
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.h(16): warning C4091: 'typedef ': 변수를 선언하지 않으면 'player' 왼쪽은 무시됩니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.h(24): warning C4091: 'typedef ': 변수를 선언하지 않으면 'player2' 왼쪽은 무시됩니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(157): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(158): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(163): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(164): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(169): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(170): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(175): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(176): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(225): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(226): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(231): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(232): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(237): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(238): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(243): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(244): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(534): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(535): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(557): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.cpp(558): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  winMain.cpp
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.h(16): warning C4091: 'typedef ': 변수를 선언하지 않으면 'player' 왼쪽은 무시됩니다.
+c:\users\dbsgh\desktop\api\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winapi\winapi\maingame.h(24): warning C4091: 'typedef ': 변수를 선언하지 않으면 'player2' 왼쪽은 무시됩니다.
+gameNode.obj : error LNK2001: __imp__GetDC@4 외부 기호를 확인할 수 없습니다.
+gameNode.obj : error LNK2001: __imp__SetTimer@16 외부 기호를 확인할 수 없습니다.
+gameNode.obj : error LNK2001: __imp__KillTimer@8 외부 기호를 확인할 수 없습니다.
+gameNode.obj : error LNK2001: __imp__ReleaseDC@8 외부 기호를 확인할 수 없습니다.
+gameNode.obj : error LNK2001: __imp__InvalidateRect@12 외부 기호를 확인할 수 없습니다.
+gameNode.obj : error LNK2001: __imp__BeginPaint@8 외부 기호를 확인할 수 없습니다.
+gameNode.obj : error LNK2001: __imp__EndPaint@8 외부 기호를 확인할 수 없습니다.
+gameNode.obj : error LNK2001: __imp__PostMessageA@16 외부 기호를 확인할 수 없습니다.
+gameNode.obj : error LNK2001: __imp__PostQuitMessage@4 외부 기호를 확인할 수 없습니다.
+gameNode.obj : error LNK2001: __imp__DefWindowProcA@16 외부 기호를 확인할 수 없습니다.
+image.obj : error LNK2001: __imp__CreateCompatibleDC@4 외부 기호를 확인할 수 없습니다.
+image.obj : error LNK2001: __imp__CreateCompatibleBitmap@12 외부 기호를 확인할 수 없습니다.
+image.obj : error LNK2001: __imp__SelectObject@8 외부 기호를 확인할 수 없습니다.
+image.obj : error LNK2001: __imp__LoadBitmapA@8 외부 기호를 확인할 수 없습니다.
+image.obj : error LNK2001: __imp__LoadImageA@24 외부 기호를 확인할 수 없습니다.
+image.obj : error LNK2001: __imp__DeleteObject@4 외부 기호를 확인할 수 없습니다.
+image.obj : error LNK2001: __imp__DeleteDC@4 외부 기호를 확인할 수 없습니다.
+image.obj : error LNK2001: __imp__GdiTransparentBlt@44 외부 기호를 확인할 수 없습니다.
+image.obj : error LNK2001: __imp__BitBlt@36 외부 기호를 확인할 수 없습니다.
+keyManager.obj : error LNK2001: __imp__GetAsyncKeyState@4 외부 기호를 확인할 수 없습니다.
+keyManager.obj : error LNK2001: __imp__GetKeyState@4 외부 기호를 확인할 수 없습니다.
+mainGame.obj : error LNK2001: __imp__IntersectRect@12 외부 기호를 확인할 수 없습니다.
+mainGame.obj : error LNK2001: __imp__wsprintfA 외부 기호를 확인할 수 없습니다.
+mainGame.obj : error LNK2001: __imp__ShowCursor@4 외부 기호를 확인할 수 없습니다.
+mainGame.obj : error LNK2001: __imp__CreateSolidBrush@4 외부 기호를 확인할 수 없습니다.
+mainGame.obj : error LNK2001: __imp__Rectangle@20 외부 기호를 확인할 수 없습니다.
+mainGame.obj : error LNK2001: __imp__TextOutA@20 외부 기호를 확인할 수 없습니다.
+winMain.obj : error LNK2001: __imp__GetStockObject@4 외부 기호를 확인할 수 없습니다.
+winMain.obj : error LNK2001: __imp__LoadCursorA@8 외부 기호를 확인할 수 없습니다.
+winMain.obj : error LNK2001: __imp__LoadIconA@8 외부 기호를 확인할 수 없습니다.
+winMain.obj : error LNK2001: __imp__RegisterClassA@4 외부 기호를 확인할 수 없습니다.
+winMain.obj : error LNK2001: __imp__CreateWindowExA@48 외부 기호를 확인할 수 없습니다.
+winMain.obj : error LNK2001: __imp__ShowWindow@8 외부 기호를 확인할 수 없습니다.
+winMain.obj : error LNK2001: __imp__GetMessageA@16 외부 기호를 확인할 수 없습니다.
+winMain.obj : error LNK2001: __imp__TranslateMessage@4 외부 기호를 확인할 수 없습니다.
+winMain.obj : error LNK2001: __imp__DispatchMessageA@4 외부 기호를 확인할 수 없습니다.
+winMain.obj : error LNK2001: __imp__UnregisterClassA@8 외부 기호를 확인할 수 없습니다.
+winMain.obj : error LNK2001: __imp__AdjustWindowRect@12 외부 기호를 확인할 수 없습니다.
+winMain.obj : error LNK2001: __imp__SetWindowPos@28 외부 기호를 확인할 수 없습니다.
+C:\Users\dbsgh\Desktop\API\슈팅게임 개발용\프레임 렌더\게임씬 기본 틀\winAPI\Release\winAPI.exe : fatal error LNK1120: 39개의 확인할 수 없는 외부 참조입니다.

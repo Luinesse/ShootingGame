@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="API Framework">
+      <UniqueIdentifier>{ae975162-34a5-499a-a7bf-6a91c8256aa4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API Framework\유틸">
+      <UniqueIdentifier>{9e5e7e1c-80f3-4a67-b0f5-c033af495a95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API Framework\stdafx">
+      <UniqueIdentifier>{0c88d9e7-3b09-484b-b8d2-25e8548f0a8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="메인게임">
+      <UniqueIdentifier>{43896223-2616-41ab-a590-df4c604f7622}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="매니져">
+      <UniqueIdentifier>{fe20f5ea-ed08-41f8-8bf5-9e19577888c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API Framework\게임노드">
+      <UniqueIdentifier>{40855f32-02e9-4440-a6b9-835e2bac394f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API Framework\이미지">
+      <UniqueIdentifier>{933d5199-6fbb-4ec2-b115-054114736227}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API Framework\벡터">
+      <UniqueIdentifier>{8519973b-5610-4f5a-93b1-88fa7f6bd266}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="winMain.cpp">
+      <Filter>API Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="gameNode.cpp">
+      <Filter>API Framework\게임노드</Filter>
+    </ClCompile>
+    <ClCompile Include="keyManager.cpp">
+      <Filter>매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="mainGame.cpp">
+      <Filter>메인게임</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>API Framework\stdafx</Filter>
+    </ClCompile>
+    <ClCompile Include="image.cpp">
+      <Filter>API Framework\이미지</Filter>
+    </ClCompile>
+    <ClCompile Include="imageManager.cpp">
+      <Filter>매니져</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="randomFunction.h">
+      <Filter>API Framework\유틸</Filter>
+    </ClInclude>
+    <ClInclude Include="commonMacroFunction.h">
+      <Filter>API Framework\유틸</Filter>
+    </ClInclude>
+    <ClInclude Include="singletonBase.h">
+      <Filter>API Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="gameNode.h">
+      <Filter>API Framework\게임노드</Filter>
+    </ClInclude>
+    <ClInclude Include="keyManager.h">
+      <Filter>매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="mainGame.h">
+      <Filter>메인게임</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>API Framework\stdafx</Filter>
+    </ClInclude>
+    <ClInclude Include="image.h">
+      <Filter>API Framework\이미지</Filter>
+    </ClInclude>
+    <ClInclude Include="imageManager.h">
+      <Filter>매니져</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
